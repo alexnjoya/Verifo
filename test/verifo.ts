@@ -1,16 +1,4 @@
-// import { loadFixture } from "@nomicfoundation/hardhat-toolbox/network-helpers";
-// import { ethers } from "hardhat";
-// import { expect } from "chai";
-
-// describe("Voting", function () {
-//     async function deployVotingFixture() {
-      
-//     }
-
-//     it("Should be able to vote", async function () {
-      
-//     });
-// });
+import { loadFixture } from "@nomicfoundation/hardhat-toolbox/network-helpers";
 
 const { expect } = require("chai");
 const { ethers } = require("hardhat");
